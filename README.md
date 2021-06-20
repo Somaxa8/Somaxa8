@@ -5,8 +5,10 @@
 <h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 </div>
 
+<p align="center">
 <br>
-<img src=https://github-readme-stats.vercel.app/api?username=Somaxa8&show_icons=true&theme=tokyonight alt=soma />
+<img src=https://github-readme-stats.vercel.app/api?username=vanevrb&show_icons=true&theme=tokyonight alt=vanevrb />
+</p>
 <br>
 
 <code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></a></code>
