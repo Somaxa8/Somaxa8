@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-<h3>💻 Fullstack Developer | 🌏 Ecuador | Desarrollo aplicaciones web.</h3>
+<h3>💻 Fullstack Developer | 🌏 Ecuador | Server and web application development.</h3>
 
 </div>
 
