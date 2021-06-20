@@ -11,21 +11,12 @@
 <code><a href="https://www.oracle.com/es/java/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <code><a href="https://kotlinlang.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></a></code>
 <code><a href="https://spring.io/projects/spring-boot" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a></code>
-</div>
-	
+</div>	
 <br>
 
 <div align="center">
 <h3>💻 Fullstack Developer | 🌏 Ecuador | Desarrollo aplicaciones web.</h3>
-</div>
-
-<div>
-<p>
-<br>
-<img src=https://github-readme-stats.vercel.app/api?username=Somaxa8&show_icons=true&theme=tokyonight alt=Somaxa8 />
-</p>
 	
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanevrb&langs_count=8&theme=tokyonight)](https://github.com/vanevrb/github-readme-stats)
 
 </div>
