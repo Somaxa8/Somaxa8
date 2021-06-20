@@ -27,9 +27,6 @@
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Somaxa8&langs_count=8&theme=tokyonight)](https://github.com/vanevrb/github-readme-stats)
 
-
-![](https://profile-counter.glitch.me/Somaxa8/count.svg) 
-
 </div>
 <p align="center">
 
