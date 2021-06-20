@@ -18,7 +18,9 @@
 <h3>💻 Fullstack Developer | 🌏 Ecuador | Desarrollo aplicaciones web.</h3>
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanevrb&langs_count=8&theme=tokyonight)](https://github.com/vanevrb/github-readme-stats)
-	
+
+<p>
 <img src=https://github-readme-stats.vercel.app/api?username=Somaxa8&show_icons=true&theme=tokyonight alt=Somaxa8 />
+</p>
 
 </div>
