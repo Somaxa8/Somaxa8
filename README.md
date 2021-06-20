@@ -23,9 +23,6 @@
 
 <div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somaxa8&show_icons=true&theme=tokyonight)
-</div>
-
-<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Somaxa8&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/Somaxa8/github-readme-stats)
 </div> 
  
