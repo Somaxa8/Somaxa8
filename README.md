@@ -19,7 +19,7 @@
 
 </div>
 
-<div align="row">
+<div align="left">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somaxa8&show_icons=true&theme=tokyonight)
  
