@@ -18,17 +18,12 @@
 <div align="center">
 <h3>💻 Fullstack Developer | 🌏 Ecuador | Desarrollo aplicaciones web.</h3>
 
-<p align="center">
+<p>
 <br>
 <img src=https://github-readme-stats.vercel.app/api?username=vanevrb&show_icons=true&theme=tokyonight alt=vanevrb />
 </p>
 <br>
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Somaxa8&langs_count=8&theme=tokyonight)](https://github.com/vanevrb/github-readme-stats)
-
-</div>
-
-<br>
-<div style="text-align: center; Background-color:white; border-radius:5px;"> 
 
 </div>
