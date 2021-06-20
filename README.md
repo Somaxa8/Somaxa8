@@ -26,6 +26,6 @@
 </p>
 	
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Somaxa8&langs_count=8&theme=tokyonight)](https://github.com/vanevrb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanevrb&langs_count=8&theme=tokyonight)](https://github.com/vanevrb/github-readme-stats)
 
 </div>
