@@ -6,15 +6,7 @@
 </div>
 
 <br>
-
-<p align="center">
-	<a href="https://twitter.com/Somaxa8" target="_blank">
-	<img align="center" alt="Silvio Franco" | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-  </a>
-<br>
-<img src=https://github-readme-stats.vercel.app/api?username=Somaxa8b&show_icons=true&theme=tokyonight alt=soma />
-
-</p>
+<img src=https://github-readme-stats.vercel.app/api?username=Somaxa8&show_icons=true&theme=tokyonight alt=soma />
 <br>
 
 <code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></a></code>
