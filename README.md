@@ -14,7 +14,7 @@
 <br>
 
 <div align="center">
-<h3>💻 Fullstack Developer | 🌏  Ecuador | Server and web application development.</h3>
+<h3>💻 Fullstack Developer | 🌏 Spain | Server and web application development.</h3>
 
 </div>
 
